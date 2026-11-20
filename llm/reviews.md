@@ -1,7 +1,7 @@
 ## HARDWARE ENVIRONMENT (하드웨어 환경)
 | key | value                       |
 | --- | ---                         |
-| * CPU * | AMD Ryzen 5600              |
+| *CPU* | AMD Ryzen 5600              |
 | GPU | NVIDIA RTX 4060 8GB (EmTek) |
 | RAM | DDR4 32GB                   |
 | SSD | Samsung 960 EVO             |
